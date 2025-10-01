@@ -7,7 +7,7 @@
 
   https://docs.arduino.cc/built-in-examples/basics/DigitalReadSerial/
 */
-const int buttonPin = 2;
+const int buttonPin = 8;
 const int r = 3;
 const int g = 4;
 const int b = 5;
